@@ -6,4 +6,4 @@ If you have any questions, please contact us, E-mail: mishra.sapna94@gmail.com
 
 The model is given in macularnet.py
 
-Requirements: tensorflow 1.10+ python 3.5
+Requirements: tensorflow-gpu 1.10+, python 3.5, GPUtil
